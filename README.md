@@ -40,6 +40,7 @@ I rest my case here
 PsXenAPI Class ที่ไม่เสร็จจนโดนไล่ออก ของ PusanStudio me@pusanstudio.com (จุดเริ่มต้นทั้งหมด)
 ถุงเงิน หลักชัย ที่ไม่ได้ทำไรหรอก ปากดีไปวันๆ
 Tanakorn Chotayakrit โปรแกรมเมอร์ตัวจริง
+Yoswaris Lawpaiboon ถ้าเป็น Valo คือมึง clutch ทุกบัคใน Project นี้
 Dritestudio First commit จริงๆ
 Craft.in.th Silent fork หน้าหีจริงๆ
 ชัชชาติ ไม่รู้กูอยากไปวิ่งเลย สัสเอ้ย
