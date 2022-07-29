@@ -15,6 +15,13 @@ Yes its very gay
 
 ข้อแนะนำ
 มันแตกง่ายมาก ฉนั้นเรื่องของมึง
+```
 PHP 8.0++
 Maria DB or MYSQL DB
+```
+
+1. แก้ config ใน ```./ess.php```
+2. แก้ fb-customerchat ใน ```./loader.php``` เป็นเลข page ของตัวเอง
+3. แก้ email template ใน ```./components/email_template.html``` เป็นชื่อตัวเอง
+4. Happy gay day
 
