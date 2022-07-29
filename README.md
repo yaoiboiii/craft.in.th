@@ -26,3 +26,12 @@ Maria DB or MYSQL DB
 3. แก้ email template ใน ```./components/email_template.html``` เป็นชื่อตัวเอง
 4. Happy gay day
 
+# เครดิตงาน
+PsXenAPI Class ที่ไม่เสร็จจนโดนไล่ออก ของ PusanStudio me@pusanstudio.com (จุดเริ่มต้นทั้งหมด)
+ถุงเงิน หลักชัย ที่ไม่ได้ทำไรหรอก ปากดีไปวันๆ
+Tanakorn Chotayakrit โปรแกรมเมอร์ตัวจริง
+Dritestudio First commit จริงๆ
+Craft.in.th Silent fork หน้าหีจริงๆ
+ชัชชาติ ไม่รู้กูอยากไปวิ่งเลย สัสเอ้ย
+คนที่จัดงานแต่งให้ ดีจังเลยครับ มีคนมา Ceremony ให้ ทั้งๆืี่ก็ได้กันมาเป็นปีแล้ว
+PHP ภาษาโปรแกรมมิ่งดีๆ สำหรับเด็ก ป.3 ซึ่งทุกวันนี้กูก็ Discontinued งานไปหมดละ
