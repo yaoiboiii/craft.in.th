@@ -47,9 +47,7 @@ I rest my case here
 
 # เครดิตงาน
 ```
-PsXenAPI Class ที่ไม่เสร็จ(ATM*) จนโดนไล่ออก** ของ PusanStudio me@pusanstudio.com (จุดเริ่มต้นทั้งหมด)
-* At the moment - มันเสร็จ แต่ทำไมกูไม่ได้ใช้ งง
-** ปัญหาที่มีปัจจัย ที่ 3 เป็นส่วนเกี่ยวข้อง
+PsXenAPI Class ของ PusanStudio me@pusanstudio.com (จุดเริ่มต้นทั้งหมด)
 
 ถุงเงิน หลักชัย ที่ไม่ได้ทำไรหรอก ปากดีไปวันๆ
 Tanakorn Chotayakrit โปรแกรมเมอร์ตัวจริง
