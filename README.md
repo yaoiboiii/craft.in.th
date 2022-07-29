@@ -26,6 +26,15 @@ Maria DB or MYSQL DB
 3. แก้ email template ใน ```./components/email_template.html``` เป็นชื่อตัวเอง
 4. Happy gay day
 
+# "โอ้ พี่ครับ คนปล่อยเอาไงอะครับ" - CEO กล่าว
+```
+โย้วๆๆ แท็กเพื่อนเกย์ตุ้ดของมึง 3 คน แล้วกูจะแจก OnlyFans ฟรี
+
+ต่อให้มึงจะเก่งมาจากไหน มึงก็ leaks OnlyFans กูไม่ได้
+I rest my case here
+```
+
+
 # เครดิตงาน
 ```
 PsXenAPI Class ที่ไม่เสร็จจนโดนไล่ออก ของ PusanStudio me@pusanstudio.com (จุดเริ่มต้นทั้งหมด)
