@@ -1,6 +1,11 @@
 # craft.in.th
 Oficial Leak & Clone
 
+# ประกาศสำคัญ พึ่งนึกออกเลย
+Sebby เป็นผัวคนที่ 1 และ Knox เป็นคนที่ 2 แล้วนะครับ 
+
+![Knox](https://i.imgur.com/6XRUuFO.png)
+
 # ไอ้ควายโคตรเกย์ leak เว็บแม่งควยๆ
 ```
 Yes its very gay
@@ -47,3 +52,5 @@ Craft.in.th Silent fork หน้าหีจริงๆ
 คนที่จัดงานแต่งให้ ดีจังเลยครับ มีคนมา Ceremony ให้ ทั้งๆืี่ก็ได้กันมาเป็นปีแล้ว
 PHP ภาษาโปรแกรมมิ่งดีๆ สำหรับเด็ก ป.3 ซึ่งทุกวันนี้กูก็ Discontinued งานไปหมดละ
 ```
+
+![XD](https://i.imgur.com/kcUIReU.png)
